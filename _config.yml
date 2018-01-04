@@ -15,10 +15,10 @@ categories_path : categories.html
 tags_path : tags.html
 
 #BASE_PATH : http://blog.ankanbiswas.in/uno-dbyll
-BASE_PATH : http://goileo.top
+BASE_PATH : https://prettyali.github.io
 
 description : 深沉的意志，恢宏的想象和炽热的情感
-title : Goileo Lee
+title : PrettyAli
 logo : /assets/images/avatar.jpg
 #cover : /assets/images/background-cover.jpg
 
